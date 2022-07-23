@@ -82,26 +82,24 @@ return amount / 11;
 
 ## WSDL Schema
 
-![WSDL Schema](./ressources/wsdl1.png)
-
+![image](https://user-images.githubusercontent.com/62752474/180603483-1d191988-56fc-4c65-a6e2-599b84273b3b.png)
 ## XML Schema Definition
 
-![XML Schema Definition](./ressources/xsd.png)
+![image](https://user-images.githubusercontent.com/62752474/180603492-6147ae8e-fc81-4675-ae82-4e22f93a4bb6.png)
 
 ## Testing SOAP web service with SoapUI tool
 
 ### Create new project in SoapU
 
-![Create new project in SoapU](./ressources/createProject.png)
+![image](https://user-images.githubusercontent.com/62752474/180603541-3920fa3a-ce30-4371-bd72-2e8bb521a1cd.png)
 
 ### Get the web services info from wsdl schema automatically
 
-![Get the web services info from wsdl schema automatically](./ressources/getWSInfo.png)
-
+![image](https://user-images.githubusercontent.com/62752474/180603551-1435ae90-c593-4253-b7d9-48cb58229c3f.png)
 ### SOAP Request for get account web service
 
-![SOAP Request for get account web service](./ressources/soapRequestGetAccount.png)
+![image](https://user-images.githubusercontent.com/62752474/180603560-95598f5e-e5c3-48cb-b825-9d8aa9f49284.png)
 
 ### Get Account Response 
 
-![Get Account Response](./ressources/getAccountResponse.png)
+![image](https://user-images.githubusercontent.com/62752474/180603571-fb231739-5409-4929-8fb8-9e0f9f700a17.png)
